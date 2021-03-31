@@ -151,6 +151,10 @@ nav .container {
         margin-top: 80px;
 
     }
+    
+    .header h1 {
+        animation: down 1.3s .7s forwards;   
+    }
 
     nav  {
         width: 100%;
@@ -195,6 +199,21 @@ nav .container {
     
         }
     
+    }
+    
+    .btn3 .btn {
+    animation: geser .2s .7s forwards;
+
+    }
+
+    .btn2 .btn {
+        animation: geser .5s .7s forwards;
+
+    }
+
+    .btn1 .btn {
+        animation: geser .8s .7s forwards;
+
     }
 
 }
